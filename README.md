@@ -1,10 +1,8 @@
 # Digital-Libary
-Part of Odin Proejct
 
-Part of the assignement was to construct a webpage at which a user can input their Books and get a display of their current BookList
+Another Project to boost my Web-Dev skills.
 
-As a additional credit I implemented LocalStorage feature.
+A simple webpage at which an user can input their Books and get a display of their current BookList.
+The Booklist is stored in the LocalStorage.
 
-Dark-Mode and Light-Mode was my personal flavour. 
-
-Firebase that is a Cloud-based storage of Book-List is work in progress.
+As a personal flavour, I added Dark-Mode support. 
